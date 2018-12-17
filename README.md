@@ -5,7 +5,7 @@ in your command prompt write commands
 
 # commands
 
-1.pip install beautifulsoup4 \n
+1.pip install beautifulsoup4
 2.pip install google
 
 Happy Coding!!
