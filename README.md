@@ -2,7 +2,9 @@
 
 This project is developed by using python 2.7.3
 in your command prompt write commands
-pip install beautifulsoup4
-pip install google
+
+#commands
+1.pip install beautifulsoup4
+2.pip install google
 
 Happy Coding!!
